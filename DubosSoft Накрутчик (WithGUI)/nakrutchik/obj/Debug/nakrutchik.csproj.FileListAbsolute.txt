@@ -1,0 +1,9 @@
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\obj\Debug\nakrutchik.csprojResolveAssemblyReference.cache
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\obj\Debug\nakrutchik.Properties.Resources.resources
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\obj\Debug\nakrutchik.csproj.GenerateResource.Cache
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\obj\Debug\nakrutchik.MainForm.resources
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\bin\Debug\DuboS Soft Накрутчик 2G.exe.config
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\bin\Debug\DuboS Soft Накрутчик 2G.exe
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\bin\Debug\DuboS Soft Накрутчик 2G.pdb
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\obj\Debug\DuboS Soft Накрутчик 2G.exe
+D:\Dubos\Documents\DubosSoft Накрутчик (WithGUI)\nakrutchik\obj\Debug\DuboS Soft Накрутчик 2G.pdb
